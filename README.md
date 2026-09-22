@@ -22,3 +22,8 @@ The primary objective of this project is to perform exploratory data analysis (E
 -Standardise Formats: Unify inconsistent date structures (e.g., 01-05-2019 vs 1/27/2019) into a single format.
 -Validate Data Types: Ensure metric columns like Quantity, Unit price, and Total are explicitly set as numbers.
 -Remove Noise: Strip out empty spacer rows, title headers, and pre-calculated summary text blocks at the bottom of the raw sheet
+
+## Dashboard
+<img width="1286" height="486" alt="Screenshot (Sales Dashboard)" src="https://github.com/user-attachments/assets/03000977-9fcc-4d79-bcb4-2903db4c43ee" />
+
+
