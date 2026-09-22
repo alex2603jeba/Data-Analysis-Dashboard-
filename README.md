@@ -27,3 +27,21 @@ The primary objective of this project is to perform exploratory data analysis (E
 <img width="1286" height="486" alt="Screenshot (Sales Dashboard)" src="https://github.com/user-attachments/assets/03000977-9fcc-4d79-bcb4-2903db4c43ee" />
 
 
+## Project Insights
+-	Top Performing Region: Yangon (Branch A) emerges as the dominant commercial hub, driving the highest total transaction volume.
+-Primary Revenue Pillars: Sports & Travel followed closely by Health & Beauty generate the vast majority of sales revenue, outperforming    lower-velocity segments like Fashion Accessories.
+-Preferred Customer Channels: Ewallet payments are the single most preferred transaction method among shoppers, eclipsing traditional cash handovers and credit cards.
+-Loyalty Uniformity: Transaction spend splits almost exactly 50/50 between Members and Normal (Walk-in) customers, highlighting an equal dependency on both regular and new footprints.
+-Fixed Margin Strategy: The retail model employs a strict, unvarying 4.76% gross margin percentage structural rule across all product classes and transaction values.
+
+## Final Conclusion:
+-	Replicate Branch A Tactics: Extract operational strategies from the Yangon branch to systematically boost lower baseline sales at the Naypyitaw and Mandalay outlets.
+-	Expand Ewallet Incentives: Form digital partnerships or cashback offers explicitly tailored for Ewallet users to maximize transaction sizes.
+-	Optimize Tiered Inventory: Focus supply chain and shelf space allocations heavily on high-revenue lines (Sports & Travel, Health & Beauty) to ensure stock never bottoms out during peak business hours.
+-	Re-engineer Member Value: Revamp loyalty rewards to incentivize Members to spend significantly more per trip than un-registered Normal walk-ins.
+-	Address Rating Variance:
+Audit branches showing extreme customer response swings (e.g., highly satisfied 9.9 ratings vs sub-optimal 4.1 low scores) to improve overall customer satisfaction
+
+
+
+
