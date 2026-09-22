@@ -11,4 +11,5 @@ The primary objective of this project is to perform exploratory data analysis (E
 -Average Customer Rating: The average score from the Rating column to gauge customer satisfaction.
 -Member Penetration Rate: The percentage of transactions made by 'Member' customer types versus 'Normal' walk-ins
 
-- Dashboard interaction <a hreg="
+- Dashboard interaction <a hreg="https://github.com/alex2603jeba/Data-Analysis-Dashboard-/blob/main/Screenshot%20(Sales%20Dashboard).jpg">View Dashboard</a>
+
