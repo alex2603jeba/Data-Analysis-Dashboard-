@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard-
-I developed a comprehensive project in Excel, creating multiple dashboard and tables to analyze the data. This process involved several stages,Including data preprocessing, data cleaning, and data visualization.
+# Super-market-sales-Data-Analysis(Interactive Dashboard creation using MS Excel)
+## Project Objective
+The primary objective of this project is to perform exploratory data analysis (EDA) and sales performance tracking for a supermarket chain operating across multiple locations. By aggregating transactional data, the project aims to uncover patterns in customer behaviour, product line popularity, profitability, and payment preferences to optimize inventory and marketing strategies.
